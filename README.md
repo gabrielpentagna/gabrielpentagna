@@ -2,12 +2,12 @@
 
 **Infraestrutura • Segurança da Informação • Desenvolvimento Web** — Rio de Janeiro, Brasil 🇧🇷
 
-🖥️ Comecei em infra e acabei escrevendo software
-🐧 8 anos no Exército Brasileiro — entrei como Soldado Recruta, saí como 3º Sargento
-🎓 Tecnólogo em Redes de Computadores e pós-graduado em Cybersecurity & Cybercrimes
-📊 Fui gerir os dados de um efetivo de ~900 pessoas, encontrei planilha, e decidi construir o sistema
-🌱 Estudando: CyberSecurity
-📫 Contato: gabrielpentagna2015@gmail.com
+- 🖥️ Comecei em infra e acabei escrevendo software
+- 🐧 8 anos no Exército Brasileiro — entrei como Soldado Recruta, saí como 3º Sargento
+- 🎓 Tecnólogo em Redes de Computadores e pós-graduado em Cybersecurity & Cybercrimes
+- 📊 Assumi o controle de um efetivo de ~900 pessoas mantido em planilha — mapeei as 912 posições do quadro uma a uma, na mão, e no fim escrevi o sistema que aposentou a planilha
+- 🌱 Estudando: CyberSecurity
+- 📫 Contato: gabrielpentagna2015@gmail.com
 
 ### 🛠️ Tecnologias
 
