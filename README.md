@@ -6,7 +6,7 @@
 🐧 8 anos no Exército Brasileiro — entrei como Soldado Recruta, saí como 3º Sargento
 🎓 Tecnólogo em Redes de Computadores e pós-graduado em Cybersecurity & Cybercrimes
 📊 Fui gerir os dados de um efetivo de ~900 pessoas, encontrei planilha, e decidi construir o sistema
-🌱 Estudando: `[o que você está estudando agora]`
+🌱 Estudando: CyberSecurity
 📫 Contato: gabrielpentagna2015@gmail.com
 
 ### 🛠️ Tecnologias
